@@ -2,3 +2,5 @@ WPU resolusi
 -konsisten
 -membuat platform 
 -membuat forum
+-membuat web
+-harus bisa belajar web programming
