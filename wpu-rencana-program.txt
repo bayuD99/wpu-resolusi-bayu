@@ -3,6 +3,7 @@ rencana web
 -javascrip
   *ec6
   *framework JavaScript
+- Fundamental Data Dasar
 -framework
 -interview
 -android
