@@ -1,6 +1,9 @@
 rencana web
 
 -javascrip
+  *ec6
+  *framework JavaScript
 -framework
 -interview
 -android
+
