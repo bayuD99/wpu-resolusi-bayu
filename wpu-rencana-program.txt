@@ -8,6 +8,6 @@ rencana web
 - Fundamental Data Dasar
 -PHP
 -framework
--interview
+
 -android
 
