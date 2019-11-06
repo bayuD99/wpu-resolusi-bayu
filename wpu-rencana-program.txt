@@ -3,10 +3,10 @@ rencana web
 -javascrip
   *ec6
   *framework JavaScript
-   ^Angular
-   ^React
+   ^Vue
+   ^ React
 - Fundamental Data Dasar
-^laravel
+-PHP
 -framework
 
 -android
