@@ -4,6 +4,7 @@ rencana web
   *ec6
   *framework JavaScript
    ^Vue
+   ^ React
 - Fundamental Data Dasar
 -PHP
 -framework
